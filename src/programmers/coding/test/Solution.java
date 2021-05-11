@@ -13,8 +13,9 @@ public class Solution {
 		// System.out.println("답: " + Solution3.solution3("baabaa"));
 		// String[] strArray = {"Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"};
 		// System.out.println("답: " + Solution4.solution4(strArray));
-		int[] intArray = {2, 1, 10, 9, 3, 12};
-		System.out.println("답: " + Solution5.solution5(intArray, 7));
+		//int[] intArray = {2, 1, 10, 9, 3, 12};
+		//System.out.println("답: " + Solution5.solution5(intArray, 7));
+		System.out.println("답: " + Solution6.solution6(new int[]{1, 1, 1, 1, 1}, 3));
 	}
 	
 }
