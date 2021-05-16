@@ -15,7 +15,8 @@ public class Solution {
 		// System.out.println("답: " + Solution4.solution4(strArray));
 		//int[] intArray = {2, 1, 10, 9, 3, 12};
 		//System.out.println("답: " + Solution5.solution5(intArray, 7));
-		System.out.println("답: " + Solution6.solution6(new int[]{1, 1, 1, 1, 1}, 3));
+		//System.out.println("답: " + Solution6.solution6(new int[]{1, 1, 1, 1, 1}, 3));
+		System.out.println("답: " + Solution7.solution7(4, 4));
 	}
 	
 }
