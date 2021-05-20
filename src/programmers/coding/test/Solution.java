@@ -18,7 +18,8 @@ public class Solution {
 		// System.out.println("답: " + Solution6.solution6(new int[]{1, 1, 1, 1, 1}, 3));
 		// System.out.println("답: " + Solution7.solution7(4, 4));
 		// System.out.println("답: " + Solution8.solution8(new int[] {95, 90, 99, 99, 80, 99}, new int[] {1, 1, 1, 1, 1, 1}));
-		System.out.println("답: " + Solution9.solution9("17"));
+		// System.out.println("답: " + Solution9.solution9("17"));
+		System.out.println("답: " + Solution10.solution10(new int[] {0,0,0,0}));
 	}
 	
 }
